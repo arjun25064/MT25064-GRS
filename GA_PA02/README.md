@@ -1,8 +1,6 @@
 # Programming Assignment 02: Network I/O Data Movement Cost Analysis
 
-**Student:** MT25064  
-**Course:** Graduate Research Seminar  
-**Date:** February 2026  
+**Student:** MT25064    
 **System:** Intel ThinkCentre M70s Gen 3
 
 ---
